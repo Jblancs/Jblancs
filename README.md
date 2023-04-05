@@ -20,7 +20,7 @@ As a software engineer with a background in financial accounting, I bring a uniq
 </div>
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clarencema3&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jblancs&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Contact Info: 
 <div id="badges">
