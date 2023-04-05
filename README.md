@@ -29,7 +29,7 @@ As a software engineer with a background in financial accounting, I bring a uniq
   </a>
 </div>
 
-Email: clarencema@live.com
+Email: jordan.blancaflor@gmail.com
 
 
 
