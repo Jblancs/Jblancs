@@ -24,7 +24,7 @@ As a software engineer with a background in financial accounting, I bring a uniq
 
 ### Contact Info: 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/clarence-ma-93bb45258/">
+  <a href="https://www.linkedin.com/in/jordan-blancaflor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
